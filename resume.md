@@ -24,19 +24,19 @@ Work Experience
 
 ### Threat Intelligence Team Lead
 ### Lookout
-<p align='right'>06-2017 &ndash; Present</p>
+<p align='right'>06/2017 &ndash; Present</p>
 
 *Tools and Technologies: Disassemblers (IDA Pro, JEB, Ghidra), Network Monitors(BurpSuite, Wireshark), Debuggers(gdb, lldb), Cuckoo sandbox, Hex Editors, SQL, Git, STIX 2.0, YARA, MITRE ATT&CK (mobile), MISP, Python, Java*
 
 ### Software Engineer
 ### Intel Security
-<p align='right'>01-2016 &ndash; 06-2017</p>
+<p align='right'>01/2016 &ndash; 06/2017</p>
 
 *Tools and Technologies: C++, Java, Python, Network Monitors(Fiddler, Wireshark), Procmon, Windbg*
 
 
 ### Intermediate Software Developer
 ### Save.ca
-<p align='right'>05-2013 &ndash; 08-2013</p>
+<p align='right'>05/2013 &ndash; 08/2013</p>
 
 *Tools and Technologies: PHP, JavaScript, SQL, HTML5, CSS3, Git*
