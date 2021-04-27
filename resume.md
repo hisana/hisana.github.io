@@ -10,13 +10,12 @@ Resume
 > - 6 years of professional experience in the cybersecurity industry
 > - 2 years of experience in software and web development
 > - Core contributor on state-sponsored spyware investigations such as: 
-> 	- Dark Caracal
-> 	- Stealth Mango
-> 	- Monokle
-> 	- SilkBean
-> 	- Hornbill
-> 	- SunBird
-> 	- Others: Goontact
+> 	- [Dark Caracal](https://info.lookout.com/rs/051-ESQ-475/images/Lookout_Dark-Caracal_srr_20180118_us_v.1.0.pdf)
+> 	- [Stealth Mango](https://info.lookout.com/rs/051-ESQ-475/images/lookout-stealth-mango-srr-us.pdf)
+> 	- [Monokle](https://blog.lookout.com/monokle)
+> 	- [SilkBean, DoubleAgent, and others](https://www.lookout.com/documents/threat-reports/us/lookout-uyghur-malware-tr-us.pdf)
+> 	- [Hornbill and SunBird](https://blog.lookout.com/lookout-discovers-novel-confucius-apt-android-spyware-linked-to-india-pakistan-conflict)
+> 	- Others: [Goontact](https://blog.lookout.com/lookout-discovers-new-spyware-goontact-used-by-sextortionists-for-blackmail)
 > - Speaker at RSA 2020, RSA 2019 and NSec 2019 on malware research
 > - Penetration testing on mobile applications
 
