@@ -3,7 +3,7 @@ layout: page
 title:  "Apurva's Resume"
 ---
 
-Overview
+Resume
 ===============
 
 > - Master’s Degree in Applied Science (Software Engineering)
@@ -20,8 +20,9 @@ Overview
 > - Speaker at RSA 2020, RSA 2019 and NSec 2019 on malware research
 > - Penetration testing on mobile applications
 
-Work Experience
-===============
+##Work Experience
+
+
 ### Threat Intelligence Team Lead
 ### Lookout
 <p align='right'>06-2017 -- Present</p>

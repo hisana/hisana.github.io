@@ -1,0 +1,43 @@
+I"R<h1 id="resume">Resume</h1>
+
+<blockquote>
+  <ul>
+    <li>Master’s Degree in Applied Science (Software Engineering)</li>
+    <li>6 years of professional experience in the cybersecurity industry</li>
+    <li>2 years of experience in software and web development</li>
+    <li>Core contributor on state-sponsored spyware investigations such as:
+      <ul>
+        <li>Dark Caracal</li>
+        <li>Stealth Mango</li>
+        <li>Monokle</li>
+        <li>SilkBean</li>
+        <li>Hornbill</li>
+        <li>SunBird</li>
+        <li>Others: Goontact</li>
+      </ul>
+    </li>
+    <li>Speaker at RSA 2020, RSA 2019 and NSec 2019 on malware research</li>
+    <li>Penetration testing on mobile applications</li>
+  </ul>
+</blockquote>
+
+<p>##Work Experience</p>
+
+<h3 id="threat-intelligence-team-lead">Threat Intelligence Team Lead</h3>
+<h3 id="lookout">Lookout</h3>
+<p align="right">06-2017 -- Present</p>
+
+<p><em>Tools and Technologies: Disassemblers (IDA Pro, JEB, Ghidra), Network Monitors(BurpSuite, Wireshark), Debuggers(gdb, lldb), Cuckoo sandbox, Hex Editors, SQL, Git, STIX 2.0, YARA, MITRE ATT&amp;CK (mobile), MISP, Python, Java</em></p>
+
+<h3 id="software-engineer">Software Engineer</h3>
+<h3 id="intel-security">Intel Security</h3>
+<p align="right">01-2016 -- 06-2017</p>
+
+<p><em>Tools and Technologies: C++, Java, Python, Network Monitors(Fiddler, Wireshark), Procmon, Windbg</em></p>
+
+<h3 id="intermediate-software-developer">Intermediate Software Developer</h3>
+<h3 id="saveca">Save.ca</h3>
+<p align="right">05-2013 -- 08-2013</p>
+
+<p><em>Tools and Technologies: PHP, JavaScript, SQL, HTML5, CSS3, Git</em></p>
+:ET
