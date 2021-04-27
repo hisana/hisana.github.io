@@ -1,10 +1,9 @@
 title: Exothermia
-author: Hisana
+author: hisana
 email: abby.kcs@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Security Researcher, Malware reverse engineer, Robot builder, Conservationist, Star gazer, Farmer.
+  Threat Intelligence, Cybersecurity blogs.
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -13,6 +12,7 @@ sass:
   sass_dir: _sass
 
 permalink: /posts/:title/
+
 texture:
   title: Apurva Kumar
   tagline: 
@@ -22,11 +22,13 @@ texture:
   showPicker: false
   disqus_shortname: games
 
+
   # generate social links in footer
   social_links:
     twitter: abby_kcs
     github:  hisana
     linkedIn: in/abby-kcs
+    email: abby.kcs@gmail.com
   #  rss: rss
  
 
@@ -36,7 +38,6 @@ texture:
 # - about.md
 
 # Build settings
-# theme: texture
 remote_theme: thelehhman/texture
 
 
