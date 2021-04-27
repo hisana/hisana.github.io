@@ -41,24 +41,24 @@ Work Experience
 
 Published Books
 ---------------
-[**On the Construction of Engineering Handbooks: with an illustration from the Railway Domain**](https://www.springer.com/gp/book/9783030446475)
-Springer Briefs in Computer Science, Springer
-*Stefan Gruner, Apurva Kumar, Tom Maibaum, Markus Roggenbach*
+[**On the Construction of Engineering Handbooks: with an illustration from the Railway Domain**](https://www.springer.com/gp/book/9783030446475)\
+Springer Briefs in Computer Science, Springer\
+*Stefan Gruner, Apurva Kumar, Tom Maibaum, Markus Roggenbach*\
 ISBN: 978-3-030-44657-5
 
 
 Published Papers
 ---------------
 
-[**Towards a Body of Knowledge in Formal Methods for the Railway Domain: Identification of Settled Knowledge.**](https://link.springer.com/chapter/10.1007/978-3-319-29510-7_5)
-Fourth International Workshop on Formal Techniques for Safety- Critical Systems (FTSCS 2015)
+[**Towards a Body of Knowledge in Formal Methods for the Railway Domain: Identification of Settled Knowledge.**](https://link.springer.com/chapter/10.1007/978-3-319-29510-7_5)\
+Fourth International Workshop on Formal Techniques for Safety- Critical Systems (FTSCS 2015)\
 *Stefan Gruner, Apurva Kumar, and Tom Maibaum*
 
 
 Masters in Applied Science (Software Engineering) Thesis
 ---------------
 
-[**Towards a Body of Knowledge in Formal Methods for the Railway Domain: Identification of Settled Knowledge.**](http://hdl.handle.net/11375/18416)
-McMaster Univerisity, Hamilton, ON
+[**Towards a Body of Knowledge in Formal Methods for the Railway Domain: Identification of Settled Knowledge.**](http://hdl.handle.net/11375/18416)\
+McMaster Univerisity, Hamilton, ON\
 *Stefan Gruner, Apurva Kumar, and Tom Maibaum*
 
