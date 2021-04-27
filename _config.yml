@@ -40,6 +40,9 @@ remote_theme: thelehhman/texture
 
 texture:
   style: red
+  showNav: true
+  show_excerpts: true
+
 
 plugins:
   - jekyll-seo-tag
