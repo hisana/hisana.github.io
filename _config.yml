@@ -20,7 +20,8 @@ texture:
   showNav: true
   style: red
   showPicker: false
-  disqus_shortname: games
+  #To add comments
+  #disqus_shortname: games
   texture:
   navigation:
     - title: My Work
