@@ -24,11 +24,12 @@ texture:
   #disqus_shortname: games
   texture:
   navigation:
+    - title: Blog
+      url: "/blog"
     - title: My Work
       url: "/my-work"
     - title: Resume
       url: "/resume"
-
 
   # generate social links in footer
   social_links:
