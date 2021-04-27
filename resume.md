@@ -55,7 +55,7 @@ Fourth International Workshop on Formal Techniques for Safety- Critical Systems 
 *Stefan Gruner, Apurva Kumar, and Tom Maibaum*
 
 
-Masters in Applied Science (Software Engineering) Thesis
+MASc (Software Engineering) Thesis
 ---------------
 
 [**Towards a Body of Knowledge in Formal Methods for the Railway Domain: Identification of Settled Knowledge.**](http://hdl.handle.net/11375/18416)\
