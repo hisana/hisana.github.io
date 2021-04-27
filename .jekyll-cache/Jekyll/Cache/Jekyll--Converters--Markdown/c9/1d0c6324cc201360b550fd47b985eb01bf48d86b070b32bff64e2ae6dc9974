@@ -1,0 +1,45 @@
+I"µ<h1 id="career-highlight">Career Highlight</h1>
+
+<blockquote>
+  <ul>
+    <li>6 years of professional experience in the cybersecurity industry</li>
+    <li>4 years of experience in reverse engineering Android and iOS applications, threat hunting and adversary tracking</li>
+    <li>Core contributor to all investigations on state-sponsored, spyware released publicly by Lookout since June 2017: Dark Caracal, Stealth Mango, Monokle, SilkBean, Hornbill, SunBird. Others: Goontact</li>
+    <li>Hands on experience using STIX 2.0, YARA, MITRE ATT&amp;CK, and MISP to curate threat intelligence</li>
+    <li>Well versed in POC and tool development for malware analysis in Python, C++, PHP, and Java</li>
+    <li>Speaker at RSA 2020, RSA 2019 and NSec 2019 on malware research</li>
+    <li>Penetration testing on mobile applications to identify vulnerabilities using the OWASP Top 10</li>
+    <li>2+ years of experience in software and web development</li>
+    <li>Masterâ€™s Degree in Applied Science (Software Engineering)</li>
+  </ul>
+</blockquote>
+
+<h1 id="work-experience">Work Experience</h1>
+
+<h2 id="threat-intelligence-team-lead">Threat Intelligence Team Lead</h2>
+<h2 id="lookout">Lookout</h2>
+<p align="right">*06-2017 -- Present*</p>
+
+<p><em>Tools and Technologies: Disassemblers (IDA Pro, JEB, Ghidra), Network Monitors(BurpSuite, Wireshark), Debuggers(gdb, lldb), Cuckoo sandbox, Hex Editors, SQL, Git, STIX 2.0, YARA, MITRE ATT&amp;CK (mobile), MISP, Python, Java</em></p>
+
+<blockquote>
+  <ul>
+    <li>Previous Roles: Staff Security Researcher, Senior Security Researcher</li>
+    <li>Perform emerging malware research with a focus on spyware and nation state espionage</li>
+    <li>Create protection (coverage) for customers from new malware families</li>
+    <li>Generate STIX, YARA rules, &amp; ATT&amp;CK matrices for malware threats</li>
+    <li>Regularly write and report on upcoming threats including TTPs, attribution, attack vectors and cross platform tool usage</li>
+    <li>Investigate and create coverage for phishing threats discovered</li>
+    <li>Perform in-depth investigations including initial finding of threats, reverse engineering of malware, attribution of actors, and writing full length reports on findings</li>
+    <li>Communicate results of investigations to reporters, clients, and other security researchers</li>
+    <li>Conduct penetration tests on mobile applications on Android and iOS</li>
+    <li>Continuously automate and innovate threat hunting processes using scripts in Java, Python and Bash</li>
+    <li>Mentor teammates and build learning materials as well as new technologies needed by the team</li>
+    <li>Set technical direction of the team and guide research</li>
+    <li>Plan and carry out bespoke research workshops with customers</li>
+    <li>Built Hermes: an ML solution to accelerate threat hunting processes</li>
+    <li>Built Titan: used KLARA to make a large searchable database of heuristics in native code</li>
+  </ul>
+</blockquote>
+
+:ET
