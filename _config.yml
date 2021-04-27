@@ -26,8 +26,6 @@ texture:
   navigation:
     - title: Home
       url: "/"
-    - title: My Work
-      url: "/my-work"
     - title: Resume
       url: "/resume"
     - title: Blog
