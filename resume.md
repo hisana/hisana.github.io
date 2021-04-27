@@ -16,11 +16,11 @@ Resume
 > 	- [SilkBean, DoubleAgent, and others](https://www.lookout.com/documents/threat-reports/us/lookout-uyghur-malware-tr-us.pdf)
 > 	- [Hornbill and SunBird](https://blog.lookout.com/lookout-discovers-novel-confucius-apt-android-spyware-linked-to-india-pakistan-conflict)
 > 	- Others: [Goontact](https://blog.lookout.com/lookout-discovers-new-spyware-goontact-used-by-sextortionists-for-blackmail)
-> - Speaker at RSA 2020, RSA 2019 and NSec 2019 on malware research
+> - Speaker at RSA 2020, RSA 2019 and NSec 2019
 > - Penetration testing on mobile applications
 
-##Work Experience
-
+Work Experience
+---------------
 
 ### Threat Intelligence Team Lead
 ### Lookout
