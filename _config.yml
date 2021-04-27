@@ -24,6 +24,8 @@ texture:
   #disqus_shortname: games
   texture:
   navigation:
+    - title: Home
+      url: "/"
     - title: My Work
       url: "/my-work"
     - title: Resume

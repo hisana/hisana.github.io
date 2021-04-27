@@ -8,7 +8,7 @@ Overview
 
 > - Master’s Degree in Applied Science (Software Engineering)
 > - 6 years of professional experience in the cybersecurity industry
-> - 2+ years of experience in software and web development
+> - 2 years of experience in software and web development
 > - Core contributor on state-sponsored spyware investigations such as: 
 > 	- Dark Caracal
 > 	- Stealth Mango
