@@ -38,6 +38,8 @@ texture:
 # theme: texture
 remote_theme: thelehhman/texture
 
+texture:
+  style: red
 
 plugins:
   - jekyll-seo-tag
