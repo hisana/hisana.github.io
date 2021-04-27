@@ -1,47 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head><meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta http-equiv="X-UA-Compatible" content="ie=edge">
-<link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,400i,700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/assets/css/style.css">
-<title>Apurva's Resume</title>
-<!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>Apurva’s Resume | Exothermia</title>
-<meta name="generator" content="Jekyll v4.2.0" />
-<meta property="og:title" content="Apurva’s Resume" />
-<meta name="author" content="hisana" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="Security Researcher, Malware reverse engineer, Robot builder, Conservationist, Star gazer, Farmer. Threat Intelligence, Cybersecurity blogs." />
-<meta property="og:description" content="Security Researcher, Malware reverse engineer, Robot builder, Conservationist, Star gazer, Farmer. Threat Intelligence, Cybersecurity blogs." />
-<meta property="og:site_name" content="Exothermia" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Apurva’s Resume" />
-<script type="application/ld+json">
-{"@type":"WebPage","author":{"@type":"Person","name":"hisana"},"description":"Security Researcher, Malware reverse engineer, Robot builder, Conservationist, Star gazer, Farmer. Threat Intelligence, Cybersecurity blogs.","url":"/resume/","headline":"Apurva’s Resume","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-</head>
-<body>
-	<header class="texture-red">
-		<div class="container"><div class="navbar">
-	<ul>
-		
-		<a href="/my-work"><li  >My Work</li></a>
-		
-		<a href="/resume"><li  >Resume</li></a>
-		
-		<a href="/blog"><li  >Blog</li></a>
-		
-	</ul>
-</div></div><div class="container">
-	<h1>Apurva Kumar</h1>
-	<h2></h2>
-	<ul class="social"><a href="https://github.com/hisana"><li><i class="icon-github-circled"></i></li></a><a href="https://linkedin.com/in/abby-kcs"><li><i class="icon-linkedin-squared"></i></li></a><a href="https://twitter.com/abby_kcs"><li><i class="icon-twitter-squared"></i></li></a></ul>
-</div>
-</header>
-	<main>
-		<div class="container">
-			<h1 id="career-highlights">Career Highlights</h1>
+I"�
+<h1 id="career-highlights">Career Highlights</h1>
 
 <blockquote>
   <ul>
@@ -105,7 +63,4 @@
   </ul>
 </blockquote>
 
-
-		</div>
-	</main></body>
-</html>
+:ET
