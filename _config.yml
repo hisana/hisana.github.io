@@ -21,6 +21,12 @@ texture:
   style: red
   showPicker: false
   disqus_shortname: games
+  texture:
+  navigation:
+    - title: My Work
+      url: "/my-work"
+    - title: Resume
+      url: "/resume"
 
 
   # generate social links in footer
